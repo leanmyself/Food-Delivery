@@ -1,0 +1,10 @@
+Pork-Chao-Fan 55.000000 0
+Beef-Chao-Fan 60.000000 0
+Sweet-&-Sour-Pork 109.000000 0
+Sweet-&-Sour-Fish 109.000000 0
+Meaty-Wonton-Mami 65.000000 0
+Pancit-Canton 75.000000 0
+Chunky-Asado-Siopao 65.000000 0
+SuperSangkap-Halo-Halo 60.000000 0
+Pearl-Milk-Tea 40.000000 0
+Coke-Regular 25.000000 0

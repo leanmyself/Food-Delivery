@@ -1,0 +1,8 @@
+Hawaiian-Overload 220.000000 0
+Bacon-Overload 275.000000 0
+Pepperoni 165.000000 0
+Lasagna-Supreme 115.000000 0
+Spaghetti-Supreme 65.000000 0
+Cheesy-Bread-Stick 50.000000 0
+Potato-Waves 40.000000 0
+Coke-Regular 50.000000 0

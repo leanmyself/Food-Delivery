@@ -1,0 +1,7 @@
+Espresso(solo) 100.000000 0
+Caffe-Americano(tall) 115.000000 0
+Cappuccino(tall) 125.000000 0
+Coffee-Frappuccino(tall) 140.000000 0
+Java-Chip-Frappuccino(tall) 165.000000 0
+Brewed-Coffee 100.000000 0
+Green-Tea-Latte(tall) 145.000000 0

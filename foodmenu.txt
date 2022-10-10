@@ -1,0 +1,6 @@
+Shanghai-Rolls 60.000000 0
+Sweet-&-Sour-Pork 120.000000 0
+Pancit-Bihon 250.000000 0
+Crab-&-Corn-Soup 150.000000 0
+Coke-Regular 50.000000 0
+Hawaiian-Pizza 120.000000 0
